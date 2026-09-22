@@ -73,8 +73,7 @@ vitor = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorLaboissiere&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLaboissiere&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=VitorLaboissiere&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&locale=pt_BR" alt="GitHub Streak" />
 
 </div>
 
